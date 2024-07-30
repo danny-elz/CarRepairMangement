@@ -92,24 +92,3 @@ CarRepairManagement/
 └── LICENSE
 ```
 
-### Contribution Guidelines
-
-We welcome contributions to improve this project! Please follow these steps:
-
-1. **Fork the repository**.
-2. **Create a new branch** for your feature or bugfix.
-3. **Make your changes** and commit them with descriptive messages.
-4. **Push to your branch**.
-5. **Create a Pull Request**.
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-### Contact
-
-For any questions or suggestions, feel free to open an issue or contact the repository owner at your.email@example.com.
-
----
-
-Thank you for using the CarRepairManagement System! We hope this tool helps you manage your car repair shop efficiently.
