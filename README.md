@@ -9,9 +9,6 @@ This application is a console-based management system designed to handle vehicle
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
-- [Contact](#contact)
 
 ### Features
 
