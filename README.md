@@ -1,6 +1,6 @@
-### CarRepairManagement System
+### Car Repair Management System
 
-Welcome to the **CarRepairManagement System** repository! This application is a console-based management system designed to handle vehicle, inventory, and repair data for a car repair shop. It allows users to perform CRUD (Create, Read, Update, Delete) operations on vehicles, inventory, and repairs while ensuring data integrity and proper exception handling.
+This application is a console-based management system designed to handle vehicle, inventory, and repair data for a car repair shop. It allows users to perform CRUD (Create, Read, Update, Delete) operations on vehicles, inventory, and repairs while ensuring data integrity and proper exception handling.
 
 #### Table of Contents
 
